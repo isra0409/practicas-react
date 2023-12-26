@@ -1,0 +1,20 @@
+.miclase{
+    background-color: pink !important;
+    display: flex !important;
+}
+
+.miclase2{
+    margin-right: 1rem;
+}
+
+.contenedorIzq{
+    display: flex;
+    margin-left: 1rem;
+}
+
+.contenedorDerecha{
+    display: flex;
+    justify-content: end;
+    width: 100%;
+    margin-right: 1rem;
+}
